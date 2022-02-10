@@ -1,6 +1,6 @@
 # Laboratorio 3 - TDD
 ### Juan David Martinez Cardozo - Jhon Sebastian Piñeros
-## ClASES DE EQUIVALENCIA
+## CLASES DE EQUIVALENCIA
 
 ## CREAR UN PORYECTO CON MAVEN
 - En el directorio de trabajo ejecutar el comando necesario para crear un proyecto maven, basado en un arquetipo:
