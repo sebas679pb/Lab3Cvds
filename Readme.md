@@ -1,7 +1,8 @@
 # Laboratorio 3 - TDD
-##ClASES DE EQUIVALENCIA
+### Juan David Martinez Cardozo - Jhon Sebastian Piñeros
+## ClASES DE EQUIVALENCIA
 
-##CREAR UN PORYECTO CON MAVEN
+## CREAR UN PORYECTO CON MAVEN
 - En el directorio de trabajo ejecutar el comando necesario para crear un proyecto maven, basado en un arquetipo:
 - Grupo: edu.eci.cvds
 - Artefacto: ClasesEquivalencia
@@ -89,4 +90,4 @@ $ mvn install:install-file -Dfile=aerodescuentos-1.0.0.jar -DgroupId=edu.eci.cvd
 
 - Ejecute el comando de Maven para las fases de compilación y pruebas. Verifique el resultado exitoso de todas las pruebas y el reporte generado.
 
-
+![Imagen 9](9cvds.jpeg)
